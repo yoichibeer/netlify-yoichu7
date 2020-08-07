@@ -6,6 +6,8 @@ description: テンプレ探さないと
 Failed to load settings from /.netlify/identity
 でていみふだった。
 
-メールパスワードリセットしまくってダメで、
+
+
+メールでログインしようとして上記エラーでログインできず、メールパスワードリセットしまくってダメで、
 結局、External providers 増やしてはいれたけど、
 GoogleとGitHubアカウントで入れて、いつ２つも登録したんだろう？？
